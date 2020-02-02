@@ -12,3 +12,7 @@ public class Text {
 	}
 
 }
+// JRE是java运行时的环境，包含JVM和基本类库
+// JVM是java虚拟机，程序被编译成.class的类文件，然后在虚拟机上执行
+// 虚拟机将程序解释给系统执行
+// JRE包含lib库
